@@ -1,0 +1,18 @@
+{
+  "name": "♥️ §࿐ 𝗛𝗔𝗙𝗜𝗭 𝗪𝗔𝗤𝗔𝗥 𝗔𝗧𝗧𝗔𝗥𝗜 𝗤𝗔𝗗𝗥𝗜 ♞ᴮᴼˢˢ MD  PAIR♥️",
+  "description": "SESSION ID GENERATOR FOR WHATSAPP BOTS",
+  "logo": "https://files.catbox.moe/prkkzj.png",
+  "repository": "https://github.com/ArslanMDofficial/Arslan-MD-Mini-V2",
+  "keywords": ["@ §࿐ 𝗛𝗔𝗙𝗜𝗭 𝗪𝗔𝗤𝗔𝗥 𝗔𝗧𝗧𝗔𝗥𝗜 𝗤𝗔𝗗𝗥𝗜 ♞ᴮᴼˢˢ MD "],
+  "success_url": "/", 
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }
+  ],
+  "env": {      
+    "MESSAGE": {
+      "description": "Msg Attached With Session ID",
+      "value": "🔰 BY ||  §࿐ 𝗛𝗔𝗙𝗜𝗭 𝗪𝗔𝗤𝗔𝗥 𝗔𝗧𝗧𝗔𝗥𝗜 𝗤𝗔𝗗𝗥𝗜 ♞ᴮᴼˢˢ MD  OFFICIAL 🔰",
+      "required": false 
+    }
+  }
+}
